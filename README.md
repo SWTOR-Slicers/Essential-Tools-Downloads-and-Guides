@@ -2,12 +2,12 @@
 Please download all these tools to be able to import and work with SWTOR models and materials in Blender.
 
 ### ExtracTOR Windows app:
-**Extracts the game assets from SWTOR's files.**  
+**Extracts the game assets from SWTOR's files (replaces the old Slicers GUI app).**  
   **[Download](https://github.com/UltimaKaosXIII/extracTOR/releases/tag/v1.0.0-a1)** - **[Provisional User Guide](https://github.com/UltimaKaosXIII/extracTOR)**.
   
 ---
 ### Blender 3D app (Win/Mac/Linux):  
-  **Popular free, open source 3D app. Use any version from 3.6 to 4.2. We have issues with 4.3)**  
+  **Popular free, open source 3D app. Use any version from 3.6 to 4.2 (we have unsolved issues with 4.3)**  
   **[Download](https://www.blender.org/download/lts/)** - **[User Guides](https://www.blender.org/support/)** - **[Video Tutorials](https://www.youtube.com/playlist?list=PLa1F2ddGya_-UvuAqHAksYnB0qL9yWDO6)**.
 
 ---
@@ -17,7 +17,7 @@ Please download all these tools to be able to import and work with SWTOR models 
 
 ---
 ### ZG SWTOR Tools Add-on for Blender:  
-  **Multiple tools to work with SWTOR objects and materials. Includes Character and Area Assemblers.**  
+  **Tools to work with SWTOR objects and materials. Includes Character and Area Assemblers.**  
   **[Download](https://github.com/SWTOR-Slicers/ZG-SWTOR-Tools/releases/latest)** - **[User Guides](https://github.com/SWTOR-Slicers/WikiPedia/wiki/ZG-SWTOR-Tools-Add-on)**.
 
 ---
