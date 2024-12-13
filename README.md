@@ -1,5 +1,6 @@
 # Essential tools' downloads and guides
-Please download all these tools to be able to import and work with SWTOR models and materials in Blender.
+Please download all these tools to be able to import and work with SWTOR models and materials in Blender. For a better comprehension of their use, check our **[Wiki](https://github.com/SWTOR-Slicers/WikiPedia/wiki)**.
+
 
 ### ExtracTOR (Windows app):
 **Extracts the game assets from SWTOR's files (replaces the old Slicers GUI app).**  
@@ -24,6 +25,3 @@ Please download all these tools to be able to import and work with SWTOR models 
 ### SWTOR Terrain Extractor (Windows command line executable):  
   **Converts SWTOR terrain patches to the .obj format, usable in Blender and other apps.**  
   **[Download](https://github.com/UltimaKaosXIII/STE2/releases/latest)** - **[User Guides](https://github.com/SWTOR-Slicers/WikiPedia/wiki/SWTOR-Terrain-Extractor)**.
-
----
-For a better comprehension of their use, check their guides and our **[Wiki](https://github.com/SWTOR-Slicers/WikiPedia/wiki)**.
