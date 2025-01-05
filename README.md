@@ -8,7 +8,7 @@ Please download all these tools to be able to import and work with SWTOR models 
   
 ---
 ### Blender 3D app (Windows/macOS/Linux app):  
-  **Popular free, open source 3D app. Use any version from 3.6 to 4.2 (we have unsolved issues with 4.3)**  
+  **Popular free, open source 3D app. Use any version from 3.6 to 4.2 (DON'T USE 4.3 JUST YET)**  
   **[Download](https://www.blender.org/download/lts/)** - **[User Guides](https://www.blender.org/support/)** - **[Video Tutorials](https://www.youtube.com/playlist?list=PLa1F2ddGya_-UvuAqHAksYnB0qL9yWDO6)**.
 
 ---
