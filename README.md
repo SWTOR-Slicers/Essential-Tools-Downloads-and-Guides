@@ -4,7 +4,7 @@ Please download all these tools to be able to import and work with SWTOR models 
 
 ### ExtracTOR (Windows app):
 **Extracts the game assets from SWTOR's files (replaces the old Slicers GUI app).**  
-  **[Download](https://github.com/UltimaKaosXIII/extracTOR/releases/tag/v1.0.0-a1)** - **[Provisional User Guide](https://github.com/UltimaKaosXIII/extracTOR)**.
+  **[Download](https://github.com/UltimaKaosXIII/extracTOR/releases/latest)** - **[Provisional User Guide](https://github.com/UltimaKaosXIII/extracTOR)**.
   
 ---
 ### Blender 3D app (Windows/macOS/Linux app):  
