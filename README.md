@@ -27,7 +27,7 @@ Please download all these tools to be able to import and work with SWTOR models 
   **[Download](https://github.com/UltimaKaosXIII/STE2/releases/latest)** - **[User Guides](https://github.com/SWTOR-Slicers/WikiPedia/wiki/SWTOR-Terrain-Extractor)** - **[Repository](https://github.com/UltimaKaosXIII/extracTOR)**.
 
 ---
-### JC SWTOR Tools Add-on for Blender 3.6, by [jecandone](https://github.com/jecandone):  
+### JC SWTOR Tools Add-on for Blender 3.6 LTS only, by [jecandone](https://github.com/jecandone):  
 **Character, NPC, and Gear Assembler and Dyer that doesn't use TORCommunity.com data and can work with post-Game Update 7.0 objects.**  
   **[Download](https://github.com/jecandone/JC-SWTOR-Tools/releases/latest)** - **[User Guides](https://github.com/jecandone/JC-SWTOR-Tools)**  
   **[Requires installing matched .gr2 and ZG add-ons, too](https://github.com/SWTOR-Slicers/ZG-SWTOR-Tools/releases/latest)**.
